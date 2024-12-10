@@ -18,7 +18,9 @@ Proyecto de una base de datos para IAW
 2 ASIR
 
 ## Descripción
-Aqui tenemos una aplicacion web de la gestion de una base de datos de una empresa ficticia
+Aqui tenemos una aplicacion web de la gestion de una base de datos de una empresa ficticia. 
+Este proyecto se a realizado con un servidor apache que se conecta a un servidor con una base de datos mysql.
+Todo esto se ha hecho con php, html, css e instrucciones sql.
 
 ## Licencia
 
