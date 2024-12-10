@@ -1,6 +1,5 @@
 # Nombre del Proyecto
-
-Breve descripción del proyecto y su propósito.
+Base de datos de una empresa ficticia
 
 ## Tabla de Contenidos
 - [Nombre](#nombre)
