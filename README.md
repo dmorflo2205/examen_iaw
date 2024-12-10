@@ -21,3 +21,6 @@ Proyecto de una base de datos para IAW
 ## Descripción
 Aqui tenemos una aplicacion web de la gestion de una base de datos de una empresa ficticia
 
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
